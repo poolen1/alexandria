@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WiredBrainCoffee.CustomersApp/.vs
+/WiredBrainCoffee.CustomersApp/WiredBrainCoffee.CustomersApp/bin/Debug/net6.0-windows
+/WiredBrainCoffee.CustomersApp/WiredBrainCoffee.CustomersApp/obj
